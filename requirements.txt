@@ -1,0 +1,17 @@
+pandas
+selenium
+faiss-cpu
+flask
+flask[async]
+python-dotenv
+scikit-learn
+langchain==0.1.16
+langchain-core==0.1.46
+langchain-community==0.0.34
+langchain-openai==0.1.6
+langgraph==0.0.40
+openai
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+tqdm==4.66.1
+pymupdf
