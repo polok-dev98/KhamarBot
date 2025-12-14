@@ -16,3 +16,5 @@ venv/
 .DS_Store
 
 .chat_data.json
+
+.env
